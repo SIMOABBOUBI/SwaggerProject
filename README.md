@@ -1,4 +1,4 @@
-# secondPoject
+# SwaggerProject
 
 In this project you will find :
   - Swagger configuration see Swagger/SwaggerConfig.java & application.properties
